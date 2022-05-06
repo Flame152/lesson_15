@@ -204,7 +204,7 @@ body {
 .impact__image::before {
 	content: "";
 	width: 638px;
-	height: 429px;
+	height: 290px;
 	background: url('../img/impact/Blob_2.svg') -31px 0px no-repeat;
 	position: absolute;
 	top: 80px;
